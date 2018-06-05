@@ -20,6 +20,6 @@ __start:
     add $t0,$t0,$s5
     lw $t1,0($t0)	# $t1=A[i]
     addi $t1,$t1,10  	# $t1=A[i]+10
-    sw $t1,0($t0)	# A[i]=$1
+    sw $t1,0($t0)	# A[i]=$t1
     nop
     break 2
