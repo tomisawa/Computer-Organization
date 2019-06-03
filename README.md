@@ -12,4 +12,6 @@ H29Qtspim.pdf : QtSpim Tutorial in Japanese
 
 2018/05/07 第４回のスライドを追加した． 
 
-2019/06/03 R01Qtspim.pdfを追加した．まだ暫定版です．
+2019/06/04 R01Qtspim.pdfを追加した．まだ暫定版です．
+
+2019/06/04 中間試験過去問題 R01COPastMidEx.png　を追加した．
