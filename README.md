@@ -11,3 +11,5 @@ H29Qtspim.pdf : QtSpim Tutorial in Japanese
 2018/06/28 Handoutに第12回の資料を追加しました．
 
 2018/05/07 第４回のスライドを追加した． 
+
+2019/06/03 R01Qtspim.pdfを追加した．まだ暫定版です．
